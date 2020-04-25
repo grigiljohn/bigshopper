@@ -12,6 +12,7 @@ public class BigshopperApplication extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(BigshopperApplication.class);
 	}
+	Error
 
 	public static void main(String[] args) {
 		SpringApplication.run(BigshopperApplication.class, args);
